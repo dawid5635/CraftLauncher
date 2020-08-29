@@ -2,7 +2,7 @@
 Minecraft: Java Edition on Android!
 
 Discord server:
-https://discord.gg/kkG4nHJ
+Deleted, but later add!
 
 # Optifine?
 Optifine will be released, but later.
