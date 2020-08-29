@@ -11,4 +11,4 @@ Optifine will be released, but later.
 I don't know if I will add Forge to Launcher.
 
 # Known issues
-There are no known issues.
+Bugs to fix it!
