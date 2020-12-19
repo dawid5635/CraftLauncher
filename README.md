@@ -1,14 +1,14 @@
 # CraftLauncher
 Minecraft: Java Edition on Android!
 
-Discord server:
+# The Launcher
+* There isn't a release.
+
+# Discord server:
 Deleted, but later add!
 
-# Optifine?
-Optifine will be released, but later.
-
-# Forge?
-I don't know if I will add Forge to Launcher.
+# Optifine, Forge?
+You must copy from computer.
 
 # Known issues
-Bugs to fix it!
+Bugs, bugs, and again... bugs.
